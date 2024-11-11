@@ -1,0 +1,37 @@
+# Node.js dependencies
+node_modules/
+.npm/
+
+# Logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime files
+.DS_Store
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# IDE files
+.vscode/
+.idea/
+
+# Build directories
+web/build/
+web/dist/
+web/.next/
+mobile/android/
+mobile/ios/
+
+# Cache
+.cache/
+.parcel-cache/
+tmp/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+.DS_Store
